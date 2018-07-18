@@ -1,2 +1,2 @@
-web: python pipbot.py
+worker: python pipbot.py
 
